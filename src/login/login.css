@@ -1,0 +1,84 @@
+.logingrid{
+    display: grid;
+ grid-template-columns: repeat(2,1fr);
+}
+.loginpage{
+    border-radius: 64px 0 0 64px;
+    background: #fff;
+    box-shadow: 0 4px 40px 0 rgba(43, 57, 144, .46);
+    width: 100%;
+    min-height: 842px;
+    padding: 60px 120px;
+}
+.login{
+    height: 842px;
+}
+.loginh1{
+    font-size: 34px;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: #000;
+    margin: 0 0 10px;
+    text-align: center;
+}
+.loginp{
+    display: block;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    line-height: 24px;
+    padding: 40px 0px 10px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.inputlogin{
+    background-color: transparent;
+    border: 1px solid hsla(0, 0%, 63%, .5);
+    padding-left: 20px;
+     padding-right: 14px; 
+    height: 50px;
+    border-radius: 8px;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    width: 483px;
+}
+.forget{
+    display: block;
+    padding: 10px 0 0;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    font-weight: 500;
+    color: #4f4ab0;
+    text-align: right;
+    margin-bottom: 20px;
+}
+.button{
+    padding: 11px;
+    width: 100%;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    background: #4f4ab0;
+    color: #fff;
+}
+.donthave{
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 10px 0px 0px;
+    text-align: center;
+}
+.new{
+    text-decoration: none;
+    padding: 0px 0px 0px 6px;
+    color: #4f4ab0;
+}

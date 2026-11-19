@@ -1,0 +1,47 @@
+.loginp23{
+    display: block;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    line-height: 24px;
+    padding: 20px 0px 10px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.signcheckbox{
+    margin: 20px 0px;
+}
+.signcheckbox1{
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+    top: 5px;
+}
+.signcheckbox2{
+  padding-left: 10px;
+  text-align: center;
+}
+.signbutton{
+    box-shadow: 0 4px 11px 0 rgba(0, 0, 0, .1);
+    padding: 11px;
+    width: 100%;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 6px;
+    border: none;
+    background: #4f4ab0;
+    color: #fff;
+}
+.signp{
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.signlink{
+    text-decoration: none;
+}
+.mainheader{
+    background: linear-gradient(96deg,#3e4fbb -14.71%,#c32e6b);
+}

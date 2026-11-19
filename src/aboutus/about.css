@@ -1,0 +1,28 @@
+.aboutback{
+    width: 1522.4px;
+   height: 1320.4px;
+    padding: 120px 0px;
+}
+.aboutcontainer{
+    width: 1220px;
+    height: 1080.4px;
+    margin: 0px 151.2px;
+    padding: 0px 20px;
+}
+.aboutflex{
+    display: flex;
+flex-flow: row wrap;
+   align-items: center;
+    justify-content: space-between;
+    padding: 18px;
+}
+.aboutflexbox{
+    border-radius: 6px;
+    margin: 0 0 20px;
+    border: 1px solid #e3e3e3;
+}
+.aboutflexp{
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #4e4e4e;
+}

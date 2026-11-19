@@ -1,0 +1,89 @@
+.servicesmainback{
+    width: 1522.4px;
+    height: 2162.6px;
+padding: 20px 0px 60px ;
+}
+.container{
+    width: 1300px;
+    height: 2042.6px;
+    margin: 0px 111.2px;
+    padding: 0px 20px;
+}
+.mainh11{
+font-size: 28px;
+font-family: sans-serif;
+color: #000000;
+padding: 40px 0px;
+text-align: left;
+}
+.servicesgrid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+}
+.servicesgriditem{
+    width: 400px;
+    height: 591.4px;
+    padding: 14px;
+    border-radius: 8px;
+    box-shadow: 0 1px 14px 0 rgba(0,0,0,.2);
+}
+.serphoto{
+    width: 370px;
+    height: 297px;
+    border-radius: 10px;
+}
+.serh3{
+font-size: 22px;
+font-family: sans-serif;
+margin: 0px 0px 24px;
+}
+.sermaindiv{
+    width: 370px;
+    height: 264.4px;
+    padding: 20px 0px 0px;
+}
+.sermainp{
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    color: #a0a0a0;
+    margin: 0 0 20px;
+}
+.serread{
+    color: #981c51;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.serbutton{
+    padding: 10px 21px;
+    background-color: #4f4ab0;
+    color: #fff;
+    border: none;
+    width: 100%;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.servicesgriditem1{
+    width: 400px;
+    height: 625px;
+    padding: 14px;
+    border-radius: 8px;
+    box-shadow: 0 1px 14px 0 rgba(0,0,0,.2);
+}
+.serbutton1{
+    padding: 10px 21px;
+    background-color: #4f4ab0;
+    color: #fff;
+    border: none;
+    width: 100%;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 50px;
+}

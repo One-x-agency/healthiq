@@ -1,0 +1,213 @@
+ .mainback{
+    width: 1522px;
+    height: 221px;
+    background: linear-gradient(96deg,#3e4fbb -14.71%,#c32e6b);
+    padding: 70px 0px;
+}
+.container{
+    width: 1220px;
+    height: 81.8px;
+    margin: 0px 151px;
+    padding: 0px 20px;
+}
+.mainh1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.mainspan{
+text-align: center;
+font-size: 16px;
+font-family: sans-serif;
+color: #ffffff;
+padding-top: 10px;
+}
+.secondmain{
+    width: 1522.04px;
+    height: 4100px;
+    padding: 0px 0px 60px 0px;
+}
+.container1{
+    width: 1160px;
+    height: 4000px;
+    margin: 0px 181.2px;
+    padding: 0px 20px;
+}
+.secondh1{
+    font-size: 32px;
+    font-family: sans-serif;
+    color: #000000;
+    padding: 60px 0px 40px;
+}
+.secondgrid{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    gap: 40px;
+}
+.secondgrid1{
+    border: 1px solid #e0e0e0;
+    padding: 14px;
+    width: 346px;
+    height: 631.6px;
+    border-radius: 5px;
+    box-shadow: 0 1px 14px 0 rgba(0,0,0,.2);
+}
+.secondp{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #000000;
+    padding: 16px 0px 16px;
+}
+.secondspan{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #a0a0a0;
+    padding: 0px 0px 11px;
+    line-height: 20px;
+}
+.secondp1{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #981c51;
+}
+.secondp2{
+   padding: 14px 0px 0px 0px;
+}
+.secondb{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #000000;
+    text-align: center;
+} 
+.secondflex{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    padding: 0px 0px 13px 0px;
+}
+.secondimg1{
+    width: 29px;
+    height: 19px;
+   justify-content: flex-start;
+   padding: 0px 10px 0px 0px;
+}
+.secondul{
+    padding: 14px 0px;
+    margin: 0px;
+}
+.secondul1{
+    padding: 14px 0px 65px 0px;
+    margin: 0px;
+}
+.secondulp{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #000000;
+}
+.secondbutton{
+width: 317px;
+height: 44px;
+color: #f7f7f7;
+background-color: #4f4bb0;
+font-size: 14px;
+font-family: sans-serif;
+padding: 12px 24px;
+border: none;
+border-radius: 7px;
+margin-top: 6px;
+}
+.secondbutton1{
+    width: 317px;
+    height: 44px;
+    color: #f7f7f7;
+    background-color: #4f4bb0;
+    font-size: 14px;
+    font-family: sans-serif;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 7px;
+}
+.secondgrid2{
+    border: 1px solid #e0e0e0;
+    padding: 14px;
+    width: 346px;
+    height: 686px;
+    border-radius: 5px;
+    box-shadow: 0 1px 14px 0 rgba(0,0,0,.2);
+}
+.secondul2{
+    padding: 14px 0px 110px 0px;
+    margin: 0px;  
+}
+.secondul3{
+    padding: 14px 0px 80px 0px;
+    margin: 0px;  
+}
+.secondgrid3{
+    border: 1px solid #e0e0e0;
+    padding: 14px;
+    width: 346px;
+    height: 746px;
+    border-radius: 5px;
+    box-shadow: 0 1px 14px 0 rgba(0,0,0,.2);
+}
+.secondul4{
+    padding: 14px 0px 30px 0px;
+    margin: 0px;  
+}
+.secondul5{
+    padding: 14px 0px 50px 0px;
+    margin: 0px;  
+}
+.thirdmain{
+    font-size: 32px;
+    font-family: sans-serif;
+    color: #000000;
+    padding: 60px 0px 40px 0px;
+}
+.thirdgrid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+}
+.secondul11{
+    padding: 14px 0px 25px 0px;
+    margin: 0px;  
+}
+.secondul12{
+    padding: 14px 0px 15px 0px;
+    margin: 0px;  
+}
+.fourthgrid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+}
+.secondul41{
+    padding: 14px 0px 20px 0px;
+    margin: 0px; 
+    line-height: 17px;
+}
+.secondul42{
+    padding: 14px 0px 15px 0px;
+    margin: 0px; 
+    line-height: 17px;
+}
+.secondul43{
+    padding: 14px 0px 15px 0px;
+    margin: 0px; 
+    line-height: 17px;
+}
+.fourthbox{
+    max-width: 346.66px;
+    max-height: 718px;
+    padding: 14px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 1px 14px 0 rgba(0,0,0,.2);
+    border-radius: 5px;
+}
+.mainimg{
+  width: 316.06px;
+  height: 256PX;
+}
